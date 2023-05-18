@@ -1,0 +1,12 @@
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\bin\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.deps.json
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\bin\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.dll
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\bin\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.pdb
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.AssemblyInfo.cs
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.dll
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\refint\CalculadoraDeServiciosFreelanceRepositorio.dll
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.pdb
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceRepositorio\obj\Debug\net6.0\ref\CalculadoraDeServiciosFreelanceRepositorio.dll

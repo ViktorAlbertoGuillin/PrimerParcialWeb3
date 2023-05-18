@@ -1,0 +1,15 @@
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\bin\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.deps.json
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\bin\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.dll
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\bin\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.pdb
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.AssemblyInfo.cs
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.dll
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\refint\CalculadoraDeServiciosFreelanceServicio.dll
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.pdb
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\ref\CalculadoraDeServiciosFreelanceServicio.dll
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\bin\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.dll
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\bin\Debug\net6.0\CalculadoraDeServiciosFreelanceRepositorio.pdb
+C:\Users\Casa\Desktop\PrimerParcial\CalculadoraDeServiciosFreelanceServicio\obj\Debug\net6.0\CalculadoraDeServiciosFreelanceServicio.csproj.CopyComplete

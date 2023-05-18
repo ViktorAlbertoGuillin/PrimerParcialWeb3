@@ -1,0 +1,60 @@
+﻿@model IEnumerable<CalculadoraDeServiciosFreelanceRepositorio.Entidades.DatosRegistro>
+
+@{
+    ViewData["Title"] = "Listar";
+}
+
+<h1>Listar</h1>
+
+<p>
+  
+</p><table class="table border=2">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.NombrePersona)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HorasTrabajadas)
+                
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorHora) (AR$)
+            </th>
+            <th> = </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Resultado) (Monto Total AR$)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.NombrePersona)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.HorasTrabajadas)
+                
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.ValorHora)
+            </td>
+            <td> = </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Resultado)
+            </td>
+            <td>
+               
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div>
+
+    <a asp-controller="Principal" asp-action="BienvenidosArtificiales">Volver</a>
+</div>

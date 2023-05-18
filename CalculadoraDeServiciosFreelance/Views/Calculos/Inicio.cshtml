@@ -1,0 +1,41 @@
+﻿@model CalculadoraDeServiciosFreelanceRepositorio.Entidades.DatosRegistro;
+@{
+    ViewData["Title"] = "Calcular";
+}
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Calculos" asp-action="Calcular" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NombrePersona" class="control-label">Nombre Persona</label>
+                <input asp-for="NombrePersona" class="form-control" />
+                <span asp-validation-for="NombrePersona" class="text-danger"></span>
+            </div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HorasTrabajadas" class="control-label">Horas Trabajadas</label>
+                <input asp-for="HorasTrabajadas" class="form-control" />
+                <span asp-validation-for="HorasTrabajadas" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ValorHora" class="control-label">Valor Hora AR$</label>
+                <input asp-for="ValorHora" class="form-control" />
+                <span asp-validation-for="ValorHora" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <br />
+                <input type="submit" value="Calcular" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
+
